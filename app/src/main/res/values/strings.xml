@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareUtils</string>
+    <string name="activity_launch_url">Launch Url</string>
+    <string name="activity_copy_url">Copy Url</string>
+</resources>
